@@ -1,0 +1,3 @@
+## Please estimate the number of base stations in Istanbul by explaining how you estimated this number.
+
+In a city like Istanbul, which is highly urbanized and geographically complex, the coverage area of a single base station will inevitably decrease, no matter how precisely it is engineered. Considering that the city's total area is approximately 5,500 square kilometers and assuming there are around 7-8 base stations per square kilometer, it can be estimated that there should be around 40,000 to 45,000 base stations in Istanbul.

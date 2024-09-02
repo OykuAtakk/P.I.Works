@@ -1,0 +1,7 @@
+## If you were a product manager at WhatsApp, which two new features would you introduce? If you need to prioritize one of them since it is not allowed to develop features in parallel, based on which factors do you make your prioritization? 
+
+**Simultaneous Translation Feature:** Messages in the chat will be instantly translated into the language chosen by the user. For example, when a Turkish user is chatting with someone who speaks English, the messages will be automatically translated into Turkish, and vice versa. This feature will allow users to communicate quickly and smoothly on WhatsApp by removing language barriers. Users will be able to have a natural and fluent conversation experience, even with people who speak different languages.
+
+**One-Time View Message:** The one-time viewing feature, which is currently only available for photos, videos, and voice messages, will be adapted to all message types. This means that messages will be viewed only once and then automatically deleted, providing extra security in situations where privacy is needed.
+
+I would prioritize the Simultaneous Translation Feature because this innovation helps WhatsApp's global user base overcome language barriers, adds universal appeal to the platform, and differentiates it from other messaging apps.
